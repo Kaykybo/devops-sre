@@ -1,0 +1,5 @@
+Assuntos principais:
+
+A equipe de desenvolvimento e ops entram em conflito frequentemento, pois eles trabalham com abordagens totalmente diferentes. Ops quer assegurar que o sistema esteja sempre disponiveis com o minimo de interrupções possiveis. Já a equipe de desevolvimento tem como objetivo lançar funcionalidades. interrupções geralmente acontecem quando ocorre mudanças, é nessa parte que o conflito começa.
+
+SRE = Site Reliability Engineering
